@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="description" content="particles.js is a lightweight JavaScript library for creating particles.">
+    <!---css links-->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/mediaCss.css">
+    <!--Loading Io Links Library-->
+    <link rel="stylesheet" href="css/loading-bar.css">
+    <title>Document</title>
+</head>
+<body id="body">
+  <!---site header-->
+  <section class="container">
+   <header id="header">
+       <ul class="navbar-nav">
+           <li class="li1"><a href="#skill" class="scroll-smooth  hide">مهارت ها</a></li>
+           <li class="li2"><a href="#" class="scroll-smooth smooth-  hide">نمونه کار ها</a></li>
+           <li class="li3"><a href="#" class="scroll-smooth smoothG  hide">درباره من</a></li> 
+        </ul>
+        <ul class="mobile">
+          <li id="btn"><button class="menu-bar1"><i class="fa fa-window-close" aria-hidden="true"></i></button></li>
+          <li id="li1"><a href="#skill" >مهارت ها</a></li>
+           <li id="li2"><a href="#" >نمونه کار ها</a></li>
+           <li id="li3"><a href="#" >درباره من</a></li> 
+           <li id="prompt"><button onclick="projectFields()" class="btnProject">سفارش پروژه</button></li>
+        </ul>
+        <li><button class="menu-bar"><i class="fas fa-bars"></i></button></li> 
+    </header>
+   <!---profile pages-->
+   <section class="profile-page">
+       <div class="cc-profile-img">
+           <a href="" class="profile-img-a">
+               <img src="/img/download.png" alt="">
+            </a>
+        </div>
+        <div class="caption">
+            <h1>محمد امین میرزایی</h1>
+            <p>FRONTEND DEVELOPER</p>
+            <a title="سفارش پروژه" href="mailto:mohamamdmirzayi1384@gmail.com">سفارش پروژه</a>
+        </div>
+        <div class="social-buttons">
+            <a href="https://instagram.com/ttv_mmd/" class="fa fa-instagram" target="_blank"></a>
+            <a href="tel:0919-438-4885" class="fa fa-phone"></a>
+        </div>
+    </section>
+    <section class="section" id="about-me">
+        <h1>درباره من</h1>
+        <p class="about-p">یک سال هست که در حوزه طراحی وب فعالیت دارم و تابه حال 2 سایت انلاین طراحیی کرده ام<span id="arrowIcon"><i class="fas fa-arrow-down"></i></span></p>
+        <p class="hideAboutParaghragh1"> سلام من محمد امین میرزایی هستم از 15 سالگی شروع به فعالیت در حوزه فرانت اند (رابط کاربری) کرده ام و 1 سال تجربه در این زمینه به دست اورده ام </p>
+        <p class="hideAboutParaghragh2"> سلام من محمد امین میرزایی هستم از 15 سالگی شروع به فعالیت در حوزه فرانت اند (رابط کاربری) کرده ام و 1 سال تجربه در این زمینه به دست اورده ام </p>
+        <p class="hideAboutParaghragh3"> سلام من محمد امین میرزایی هستم از 15 سالگی شروع به فعالیت در حوزه فرانت اند (رابط کاربری) کرده ام و 1 سال تجربه در این زمینه به دست اورده ام </p>
+        <p class="hideAboutParaghragh4"> سلام من محمد امین میرزایی هستم از 15 سالگی شروع به فعالیت در حوزه فرانت اند (رابط کاربری) کرده ام و 1 سال تجربه در این زمینه به دست اورده ام </p>
+        <h2>اطلاعات شخصی</h2> 
+        <div class="city">
+            <h3>محل سکونت : <span>تهران</span></h3>
+            
+        </div>
+        <div class="age">
+            <h3>سن:<span>16</span></h3>
+        </div>
+        <div class="other">
+            <h3>شماره تلفن:<span>09194384885</span></h3>
+        </div>
+    </div>
+</section>
+<div id="particles-js">
+    <canvas class="particles-js-canvas-el" width="1285" height="418" style="width: 100%; height: 100%;"></canvas>
+    <div class="skills">
+        <img src="img/skillsGif.gif" alt="">
+    </div>
+    <div class="skillsProgreses" id="skill">
+            <div class="listItem">
+            <p class="p">HTML5<span><i class="fab fa-html5"></i></span>:</p>
+            <div class="progresesBack1">
+            <div class="skill html">95%</div>
+           </div>
+            <p class="p">CSS3<span><i class="fab fa-css3"></i></span>:</p>
+            <div class="progresesBack2">
+            <div class="skill css">90%</div>
+           </div>
+            <p class="p">javaScript<span><i class="fab fa-js"></i></span>:</p>
+            <div class="progresesBack3">
+            <div class="skill javaScript">90%</div>
+           </div>
+            <p class="p">BootStrap<span><i class="fab fa-bootstrap"></i></span>:</p>
+            <div class="progresesBack3">
+            <div class="skill bootstrap">90%</div>
+           </div>
+            <p class="p">jQuery <span><img src="img/jqueryIcon.png" alt=""></span>:</p>
+            <div class="progresesBack3">
+            <div class="skill jquery">80%</div>
+           </div>
+           </div>
+</div>
+</div>
+    </section>
+    <section class="footer">
+        <section class="footerGif">
+         <img src="img/footerG.gif" alt="">
+        </section>
+        <section class="Parahgragh">
+           <p>ممنون که مارو برای پروژه هاتون انتخاب کردید</p>
+        </section>
+    </section>
+    <section class="loading"></section>
+ <!--script src-->   
+ <script src="javaScript/particles.js"></script>
+ <script src="javaScript/app.js"></script>
+ <script src="javaScript/app-.js"></script>   
+ <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+ <script src="javaScript/loading-bar.js"></script>
+</body>
+</html>

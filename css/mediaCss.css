@@ -1,0 +1,743 @@
+@media (max-width: 1208px) {
+    .skillsProgreses{
+        margin: 50px 0 0 220px!important;
+    }
+} 
+
+@media (max-width: 1079px){
+    .skillsProgreses{
+        margin: 21px 0 0 150px!important;
+    }
+}
+
+@media (max-width: 1031px){
+    .skillsProgreses{
+        margin: 11px 0 0 135px!important;
+    }
+}
+
+@media (max-width: 1012px){
+    .skillsProgreses{
+        margin: 9px 0 0 101px;
+        height: 401px;
+    }
+}
+
+@media (max-width: 936px){
+    .skillsProgreses{
+        margin: 9px 0 0 90px!important;
+        clear: both!important;
+    }
+
+}
+
+@media (max-width: 1498px){
+    #about-me{
+        width: 55%;
+    }
+}
+
+@media (max-width: 1402px){
+    #about-me{
+        margin: 59px 290px 130px !important;
+    }
+}
+
+@media (max-width: 1374px){
+    #about-me{
+        width: 65%;
+    }
+}
+
+@media (max-width: 1164px){
+    #about-me{
+        width: 69%;
+    }
+}
+
+@media (max-width: 1098px){
+    .about-p{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1000px){
+    #about-me{
+        margin: 59px 150px 130px !important;
+    }
+}
+
+@media (max-width: 992px){
+    .caption a{
+        margin: 70px 0 0 450px;
+        clear: both!important;
+    }
+}
+
+@media (max-width: 1559px){
+    .fa-phone{
+      margin: -55px 0 0 910px !important;
+    }
+    .cc-profile-img{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1446px){
+    .fa-phone{
+        margin: -55px 0 0 485px !important;
+    }
+}
+
+@media (max-width: 1557px){
+    .fa-phone{
+        margin: -55px 0 0 901px!important;
+    }
+}
+
+@media (max-width:1530px){
+    .cc-profile-img{
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 1464px){
+    .caption h1{
+        padding: 11px 0 0 639px;
+    }
+
+    .caption p{
+        padding: 13px 0 0 650px;
+    }
+
+    .fa-instagram{
+        margin: 70px 9px 0 627px;
+    }
+
+    .caption a{
+        margin: 70px 0 0 697px;
+    }
+
+    #about-me{
+        margin: 59px 300px 130px 330px!important;
+    }
+
+    .cc-profile-img{
+        margin-left: 2px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 850px!important;
+    }
+}
+
+@media (max-width: 1366px){
+    .caption h1{
+        padding: 11px 0 0 585px;
+    }
+
+    .caption p{
+        padding: 13px 0 0 600px;
+    }
+
+    .fa-instagram{
+        margin: 70px 9px 0 590px;
+    }
+
+    .caption a{
+        margin: 70px 0 0 650px;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 797px!important;
+    }
+
+    .cc-profile-img{
+        margin-left: -1px!important;
+    }
+
+    #about-me h2{
+        padding: 37px 0 0 401px!important;
+    }
+}
+
+@media (max-width: 1404px){
+    .skillsProgreses{
+        margin: 6px 0 0 340px;
+    }
+}
+
+@media (max-width: 1428px){
+    .caption h1{
+        padding: 11px 0 0 600px!important;
+    }
+
+    .caption p{
+        padding: 13px 0 0 630px;
+    }
+
+    .fa-instagram{
+        margin: 70px 9px 0 587px;
+    }
+
+    .caption a{
+        margin: 70px 0 0 650px;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 801px!important;
+    }
+
+    .skillsProgreses{
+        margin: 6px 0 0 345px;
+    }
+}
+
+@media (max-width: 1362px){
+    #about-me{
+        margin: 59px 250px 130px 250px!important;
+    }
+}
+
+@media (max-width: 1296px){
+    .caption h1{
+        padding: 11px 0 0 550px!important;
+    }
+
+    .caption p{
+        padding: 13px 0 0 580px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 9px 0 550px!important;
+    }
+
+    .caption a{
+        margin: 70px 0 0 620px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 770px!important;
+    }
+}
+
+@media (max-width: 1242px){
+    .caption h1{
+      padding: 11px 0 0 500px!important;
+    }
+
+    .caption p{
+        padding: 13px 0 0 542px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 9px 0 500px!important;
+    }
+
+    .caption a{
+        margin: 70px 0 0 570px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 740px!important;
+    }
+}
+
+@media (max-width: 1094px){
+    .caption h1{
+        padding: 11px 0 0 450px!important;
+    }
+
+    .caption p{
+        padding: 13px 0 0 470px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 9px 0 450px!important;
+    }
+
+    .caption a{
+        margin: 70px 0 0 520px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 669px!important;
+    }
+}
+
+@media (max-width: 988px){
+    .caption h1{
+        padding: 11px 0 0 400px!important;
+        font-size: 31px;
+    }
+
+    .caption p{
+        padding: 13px 0 0 401px!important;
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .fa-instagram{
+        margin: 70px 9px 0 400px!important;
+    }
+
+    .caption a{
+        margin: 70px 0 0 455px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 601px!important;
+    }
+}
+
+@media (max-width: 940px){
+    #about-me{
+        width: 80%;
+        margin: 59px 250px 130px 110px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 9px 0 370px!important;
+    }
+
+    .caption a{
+        margin: 70px 0 0 435px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 590px!important;
+    }
+}
+
+@media (max-width: 854px){
+    .caption h1{
+        padding: 11px 0 0 350px!important;
+    }
+
+    .caption p{
+        padding: 13px 0 0 339px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 0 0 329px!important;
+    }
+
+    .caption a{
+        margin: 70px 0 0 390px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 540px!important;
+    }
+}
+
+@media (max-width: 872px){
+    .skillsProgreses{
+        margin: 6px 0 0 32px!important;
+    }
+}
+
+@media (max-width: 802px){
+    .skillsProgreses{
+        width: 700px;
+        margin: 1px 0 0 32!important;
+    }
+
+    .skills{
+        height: 350px!important;
+    }
+
+    #about-me{
+        margin-bottom: 30px!important;
+    }
+}
+
+@media (max-width: 814px){
+    .caption h1{
+        padding: 11px 0 0 327px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 0 0 300px!important;
+    }
+
+    .caption a{
+        margin: 70px 0 0 359px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 511px!important;
+    }
+}
+
+@media (max-width: 780px){
+    .skillsProgreses{
+        width: 650px;
+    }
+
+    #particles-js{
+        height: 20%!important;
+    }
+    .skills{
+        font-size: 9px!important;
+    }
+
+    .particles-js-canvas-el{
+        height: 500px!important;
+    }
+}
+
+@media (max-width: 720px){
+    .skillsProgreses{
+        width: 600px;
+    }
+
+    .caption h1{
+        padding: 11px 0 0 287px!important;
+    }
+
+    .caption p{
+        margin: 13px 0 0 -42px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 0 0 270px!important;
+    }
+
+    .caption a{
+        margin: 77px 0 0 332px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 477px!important;
+    }
+}
+
+@media (max-width: 978px){
+     
+    .navbar-nav{
+     display: none;
+    }
+
+     #header{
+         height: 41px;
+     }
+
+     .menu-bar{
+         display: block;
+         cursor: pointer;
+     }
+    
+}
+
+@media (max-width: 921px){
+    .menu-bar{
+        margin:9px 9px 0 870px;
+    }
+}
+
+@media (max-width: 895px){
+    .menu-bar{
+    margin:9px 9px 0 800px!important;
+    }
+}
+
+@media (max-width: 819px){
+    .menu-bar{
+    margin:9px 9px 0 700px!important;
+    }
+}
+
+@media (max-width: 723px){
+    .menu-bar{
+    margin:9px 9px 0 670px!important;
+    }
+}
+
+@media (max-width: 695px){
+    .menu-bar{
+    margin:9px 9px 0 600px!important;
+    }
+}
+
+@media (max-width: 635px){
+    .caption h1{
+        padding: 11px 0 0 230px!important;
+    }
+
+    .caption p{
+        margin: 13px 0 0 -110px!important;
+    }
+
+    .skillsProgreses{
+        width: 550px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 0 0 200px!important;
+    }
+
+    .caption a{
+        margin: 72px 0 0 270px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 431px!important;
+    }
+
+    .profile-img-a img{
+        height: 200px;
+        width: 200px;
+        margin-bottom: 30px;
+    }
+
+    .menu-bar{
+        margin: 9px 9px 0 550px!important;
+    }
+
+    #about-me{
+        width: 95%;
+        margin: 59px 70px 130px 0px!important;
+    }
+
+    #about-me p{
+        font-size: 11px;
+    }
+
+    #about-me h1,h2{
+        font-size: 19px;
+    }
+
+    #about-me h3{
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 587px){
+    .skillsProgreses{
+        width: 500px!important;
+    }
+
+    .menu-bar{
+      margin: 9px 9px 0 500px!important;
+    }
+}
+
+@media (max-width: 539px){
+    .skillsProgreses{
+        width: 450px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 0 0 150px!important;
+    }
+
+    .caption a{
+        margin: 72px 0 0 220px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 379px!important;
+    }
+
+    .caption h1{
+        padding: 11px 0 0 190px!important;
+    }
+
+    .caption p{
+        margin: 13px 0 0 -155px!important;
+    }
+
+    #about-me{
+        width: 97%!important;
+    }
+    
+    #about-me p{
+        font-size: 9px;
+    }
+
+    #about-me h1{
+        padding: 15px 200px 0 0!important;
+    }
+
+    #about-me h2{
+        padding: 37px 0 0 201px!important;
+    }
+
+    #about-me h3{
+        font-size: 11px;
+    }
+
+}
+
+@media (max-width: 525px){
+   .menu-bar{
+      margin: 9px 9px 0 450px!important;
+   }
+}
+
+@media (max-width: 485px){
+    .skillsProgreses{
+        width: 400px!important;
+    }
+}
+
+@media (max-width: 475px){
+    .caption h1{
+        padding: 11px 0 0 155px!important;
+    }
+
+    .caption p{
+        margin: 13px 0 0 -190px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 0 0 140px!important;
+    }
+
+    .caption a{
+        margin: 72px 0 0 200px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 350px!important;
+    }
+
+    .menu-bar{
+        margin: 9px 9px 0 400px!important;
+    }
+}
+
+@media (max-width: 439px){
+    .caption h1{
+        padding: 11px 0 0 139px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 0 0 101px!important;
+    }
+
+    .caption a{
+        margin: 72px 0 0 170px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 325px!important;
+    }
+
+    #about-me{
+        width: 99%!important;
+    }
+
+    #about-me p{
+        font-size: 9px!important;
+        padding: -9px 0 0 120px!important;
+    }
+
+    .skillsProgreses{
+        width: 370px!important;
+    }
+}
+
+@media (max-width: 427px){
+    .menu-bar{
+        margin: 9px 9px 0 400px!important;
+        z-index: 9999!important;
+    }
+
+    .caption h1{
+        padding: 11px 0 0 120px!important;
+    }
+
+    .caption p{
+        margin: 13px 0 0 -220px!important;
+    }
+}
+
+@media (max-width: 467px){
+    .menu-bar1{
+        display: block;
+    }
+}
+
+@media (max-width: 418px){
+    .menu-bar{
+        margin: 9px 9px 0 350px!important;
+    }
+
+    .skillsProgreses{
+        width: 300px!important;
+    }
+
+    .footer p{
+        font-size: 19px!important;
+    }
+}
+
+@media (max-width: 488px){
+    .about-p{
+        padding:-9px 19px 0 120px!important;
+        font-size: 9px!important;
+    }
+
+    .caption h1{
+        padding: 11px 0 0 165px!important;
+    }
+
+    .caption p{
+        padding: 13px 0 0 -175px!important;
+    }
+}
+
+@media (max-width: 424px){
+    .menu-bar{
+        margin: 9px 9px 0 340px!important;
+    }
+
+    .caption h1{
+        padding: 11px 0 0 140px!important;
+    }
+
+    .caption p{
+        padding: 13px 0 0 -170px!important;
+    }
+}
+
+@media (max-width: 384px){
+    .caption h1{
+        padding:11px 0 0 120px!important;
+    }
+
+    .caption p{
+        padding: 13px 0 0 -175px!important;
+    }
+
+    .fa-instagram{
+        margin: 70px 0 0 70px!important;
+    }
+
+    .caption a{
+        margin: 72px 0 0 140px!important;
+    }
+
+    .fa-phone{
+        margin: -55px 0 0 300px!important;
+    }
+
+    .about-p{
+        font-size: 7px!important;
+    }
+
+    #about-me h3{
+        padding: 0 0px 0 0px!important;
+    }
+
+    .age{
+        margin: 19px 70px 0 190px!important;
+    }
+
+    #about-me{
+        width: 100%!important;
+    }
+}
