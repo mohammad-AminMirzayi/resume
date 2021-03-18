@@ -668,6 +668,7 @@
 
     .skillsProgreses{
         width: 300px!important;
+        margin: 6px 0 0 55px!important;
     }
 
     .footer p{
@@ -704,13 +705,13 @@
     }
 }
 
-@media (max-width: 384px){
+@media (max-width: 385px){
     .caption h1{
-        padding:11px 0 0 120px!important;
+        padding:11px 0 0 110px!important;
     }
 
     .caption p{
-        padding: 13px 0 0 -175px!important;
+        padding: 13px 0 0 -180px!important;
     }
 
     .fa-instagram{
